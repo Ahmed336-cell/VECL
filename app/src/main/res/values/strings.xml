@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name" translatable="false">VECL</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="start">get Start</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+
+    <string name="xx_pppp_com" translatable="false">xx@pppp.com</string>
+    <string name="e_mail">E-Mail</string>
+    <string name="password">Password</string>
+    <string name="ErrorEmailLogin">Please Enter Email</string>
+    <string name="ErrorPasswordLogin">Please Enter Password</string>
+    <string name="ErrorEmailLoginInvalid">Please Enter Valid Email</string>
+    <string name="ErrorLogin">Please check Password or Email</string>
+    <string name="ahmed_mohamed" translatable="false">Ahmed Mohamed</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="xyz_ffs_com" translatable="false">xyz@ffs.com</string>
+    <string name="passw" translatable="false">***********</string>
+    <string name="password_must_be_not_less_than_6_characters">Password must be more than 6 characters</string>
+    <string name="signup">Sign Up</string>
+    <string name="usernameempty">please enter your name</string>
+    <string name="emailempty">Please Enter your email</string>
+    <string name="passwordempty">please enter your password</string>
+    <string name="phoneempty">please enter your phone number</string>
+    <string name="passwordlen">please enter password more than 6 characters</string>
+    <string name="phoneInvalid">Please enter valid phone number</string>
+    <string name="signupSucc">Sign up is successful …Welcome</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_account_signup">Don\'t Have Account? Signup</string>
+    <string name="forget_password">forget password?</string>
+    <string name="enter_your_email">Enter your Email</string>
+    <string name="send_email">send Email</string>
+    <string name="reset">reset email sent successfully please check your email .. check spams or junk emails</string>
+    <string name="newcar">New Cars</string>
+    <string name="usedcar">Used Cars</string>
+    <string name="wench">Rescue Wench</string>
+    <string name="fastrescue">Fast Rescue</string>
+    <string name="spareparts">Spare Parts</string>
+    <string name="home">Home</string>
+    <string name="videos">Videos</string>
+    <string name="chat">chat to customer services</string>
+    <string name="settings">Settings</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="tocartsucc">Add to cart successfully</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

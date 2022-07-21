@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "954332121842",
+    "project_id": "vecl-1eece",
+    "storage_bucket": "vecl-1eece.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954332121842:android:c1a91e43053d2e57adde6b",
+        "android_client_info": {
+          "package_name": "com.vecl.vecl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954332121842-krf8kka63rse3lf68uh5h7tt6s68t8b6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vecl.vecl",
+            "certificate_hash": "dbc2f7076d46b51a5b0989006e54084af583cb8b"
+          }
+        },
+        {
+          "client_id": "954332121842-aon4hguktbrpspf8ts7pb08rd25nj29b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcf-0VDH9iITNkiekKzxeK0UlD49-Ogqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954332121842-aon4hguktbrpspf8ts7pb08rd25nj29b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

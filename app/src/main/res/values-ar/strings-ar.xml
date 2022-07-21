@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="start">البدء</string>
+    <string name="next">لتالي</string>
+    <string name="previous">السابق</string>
+
+    <string name="e_mail">البريد الالكتروني</string>
+    <string name="password">كلمة السر</string>
+    <string name="ErrorEmailLogin">من فضلك ادخل البريد الالكتروني</string>
+    <string name="ErrorPasswordLogin">من فضلك ادخل كلمة السر</string>
+    <string name="ErrorEmailLoginInvalid">من فضلك ادخل بريد الكتروني صحيح</string>
+    <string name="ErrorLogin">تأكد من صحة البريد الالكتروني او كلمة السر</string>
+    <string name="name">الاسم</string>
+    <string name="email">البريد الالكتروني</string>
+    <string name="password_must_be_not_less_than_6_characters">كلمة السر يجب ان تكون اكبر من 6 عناصر </string>
+    <string name="signup">تسجيل</string>
+    <string name="usernameempty">من فضلك ادخل الاسم</string>
+    <string name="emailempty">من فضلك ادخل البريد الالكتروني</string>
+    <string name="passwordempty">من فضلك ادخل كلمة السر</string>
+    <string name="phoneempty">من فضلك ادخل رقم الهاتف</string>
+    <string name="passwordlen">كلمة السر يجب ان تكون اكبر من 6 عناصر </string>
+    <string name="phoneInvalid">من فضلك ادخل رقم الهاتف صحيح</string>
+    <string name="signupSucc">نجحت عملية التسجيل...اهلا بك</string>
+    <string name="login">تسجيل دخول</string>
+    <string name="don_t_have_account_signup">أليس لديك حساب؟ انشاء حساب</string>
+    <string name="reset">اعادة تعين كلمة السر تم الارسال بنجاح يرجى التأكد من البريد الوارد .. تاكد من الjunk or spams</string>
+    <string name="forget_password">هل نسيت كلمة السر؟</string>
+    <string name="enter_your_email">ادخل البريد الالكتروني</string>
+    <string name="send_email">ارسال</string>
+    <string name="newcar">سيارات جديدة</string>
+    <string name="usedcar">سيارات مستخدمة</string>
+    <string name="wench">ونش انقاذ</string>
+    <string name="fastrescue">انقاذ سريع</string>
+    <string name="spareparts">قطع غيار</string>
+    <string name="home">الصفحة الرئيسية</string>
+    <string name="videos">فيديوهات</string>
+    <string name="chat">محادثة خدمة العملاء</string>
+    <string name="settings">الإعدادات</string>
+    <string name="add_to_cart">اضف الي عربة التسوق</string>
+    <string name="tocartsucc">تم الاضافة الى عربة التسوق بنجاح</string>
+
+
+</resources>

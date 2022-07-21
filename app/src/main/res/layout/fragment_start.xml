@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".ui.fragment.StartFragment">
+
+    <ImageView
+        android:id="@+id/startimg"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_450sdp"
+        android:src="@drawable/start"
+        android:scaleType="fitEnd"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/startbtn"
+        android:layout_width="@dimen/_250sdp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_35sdp"
+        android:background="@drawable/startbtn"
+        android:text="@string/start"
+        android:layout_marginTop="@dimen/_25sdp"
+        android:textColor="@color/white"
+        android:textAllCaps="false"
+        />
+
+
+
+
+</LinearLayout>
